@@ -196,6 +196,7 @@ Format:
 | Matt Jones | [Marzipan](https://github.com/Marzipan) ||
 | Matt Kovars | [akovaski](https://github.com/akovaski) ||
 | Matt Lancaster | [lank81](https://github.com/lank81) ||
+| Matt R | [ohnotion](https://github.com/ohnotion) | Basic understanding of Python and C++ primarily, and a few others in parts. I want to develop my skills by observing and contributing to different projects. ||
 | Matthias Wheelhouse | [Tunacrackers](https://github.com/tunacrackers) ||
 | Max S | [Vutpa](https://github.com/Vutpa) | Highschool Student wanting to wet my feet in programming |
 | Maya Osbourne | [mayaosbourne](https://github.com/mayaosbourne) | Computer Science student. Proficient in Java with some C, Assembly, HTML, CSS, SQL, and Python experience. |
@@ -287,4 +288,4 @@ Format:
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
 | Zuber U | [zuberuber](https://github.com/zuberuber) | I know Python(starting OOP), HTML and some CSS, beginner with PHP, JS. I have a lot of free time and i am looking forward to learn more Python, web-development and web-design. I'd also like to learn more how to write practical code, OOP paradigm and design patterns. ||
 | حبيب الامين | [phySi0](https://github.com/phySi0) | I know a fair bit, I want to learn a lot more. My priorities are Objective-C, Python (2 and 3) and C. ||
-| Matt R | [ohnotion](https://github.com/ohnotion) | Basic understanding of Python and C++ primarily, and a few others in parts. I want to develop my skills by observing and contributing to different projects. ||
+
